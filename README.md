@@ -14,4 +14,4 @@
 - Ngôn ngữ C/C++.  
 - Tự lập trình mức SOCKET  
 - Tham khảo: FileZilla  
-- [^1]: Liên hệ  ![Bugs](https://www.facebook.com/duonngbk) (&lt;a&gt;)  
+Liên hệ  ![Bugs](https://www.facebook.com/duonngbk) (&lt;a&gt;)  
