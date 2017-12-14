@@ -2,7 +2,7 @@
 ---
 >BTL môn Lập trình mạng  
 
-##Viết chương trình FTP Client thực hiện được ít nhất các chức năng sau:  
+## Viết chương trình FTP Client thực hiện được ít nhất các chức năng sau:  
 - 
 - Tìm hiểu giao thức FTP (*RFC 959*)  
 - Đăng nhập vào một máy chủ FTP  
