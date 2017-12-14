@@ -208,8 +208,8 @@ int renameDirFile(SOCKET ftpControl) {
     char    pathServer[1024], buf[1024];
     char    *filename;
 
-    puts("DOI TEN TAP TIN(THU MUC):");
-    printf("- Nhap duong dan toi thu muc(tap tin) can doi ten: ");
+    puts("DOI TEN TAP TIN:");
+    printf("- Nhap duong dan toi tap tin can doi ten: ");
     scanf("%s", pathServer);
     strcpy(buf, pathServer);
 
